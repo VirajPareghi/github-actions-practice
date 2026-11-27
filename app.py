@@ -1,11 +1,8 @@
-# This program adds two numbers
-# This code is runs from Github
+num1 = 10
+num2 = 20
 
-num1 = 1.5
-num2 = 6.3
-
-# Add two numbers
+# Calculate the sum
 sum = num1 + num2
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+print(f'The sum of {num1} and {num2} is {sum}')
